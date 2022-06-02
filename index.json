@@ -1,0 +1,28 @@
+{
+  "featured": {
+    "link": "https://nice1.org",
+    "image": "first-banner.png"
+  },
+  "posts": [
+    {
+      "file": "22-05-31-be-part-of-the-revolution.md",
+      "date": "2022-05-31",
+      "image": "first-banner.png"
+    },
+    {
+      "file": "22-06-02-democratization-of-video-games.md",
+      "date": "2022-06-02",
+      "image": "first-banner.png"
+    },
+    {
+      "file": "22-06-02-launch-part-ipsum.md",
+      "date": "2022-06-02",
+      "image": "first-banner.png"
+    },
+    {
+      "file": "22-06-02-be-part-of-the-revolution-2.md",
+      "date": "2022-06-02",
+      "image": "first-banner.png"
+    }
+  ]
+}
