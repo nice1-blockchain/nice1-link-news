@@ -1,0 +1,14 @@
+image: busybox
+
+pages:
+  stage: deploy
+  before_script:
+  - echo "Deploying site to $CI_PAGES_URL"
+  script:
+  - mkdir public
+  - cp -frv images posts index.json public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
