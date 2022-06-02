@@ -6,21 +6,25 @@
   "posts": [
     {
       "file": "22-05-31-be-part-of-the-revolution.md",
+      "slug": "be-part-of-the-revolution",
       "date": "2022-05-31",
       "image": "first-banner.png"
     },
     {
       "file": "22-06-02-democratization-of-video-games.md",
+      "slug": "democratization-of-video-games",
       "date": "2022-06-02",
       "image": "first-banner.png"
     },
     {
       "file": "22-06-02-launch-part-ipsum.md",
+      "slug": "launch-part-ipsum",
       "date": "2022-06-02",
       "image": "first-banner.png"
     },
     {
       "file": "22-06-02-be-part-of-the-revolution-2.md",
+      "slug": "be-part-of-the-revolution-2",
       "date": "2022-06-02",
       "image": "first-banner.png"
     }
