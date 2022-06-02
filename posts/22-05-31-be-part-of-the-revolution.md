@@ -15,6 +15,15 @@ Aeolon non regionis Iovis ait, dum arcumque aestuat, his tua sumpto recursus,
 aures genae leviter; et. Miserrima glacialis testatus nefas pars; terres et Echo
 *fuit nescio arvaque* relictum tenuique mediis.
 
+## A table
+
+| Tables   | Tables   | Tables   | Tables   | Tables   | Tables   | Tables   | Tables   |      Are      |  Cool |
+|----------|----------|----------|----------|----------|----------|----------|----------|:-------------:|------:|
+| col 1 is | col 1 is | col 1 is | col 1 is | col 1 is | col 1 is | col 1 is | col 1 is |  left-aligned | $1600 |
+| col 2 is | col 2 is | col 2 is | col 2 is | col 2 is | col 2 is | col 2 is | col 2 is |    centered   |   $12 |
+| col 3 is | col 3 is | col 3 is | col 3 is | col 3 is | col 3 is | col 3 is | col 3 is | right-aligned |    $1 |
+
+
 ## Ventique paratu voce parabant
 
 Hospita relinquit sonitum a Phoceaque dea dignos sic sumptis metus, seu. Fuit
