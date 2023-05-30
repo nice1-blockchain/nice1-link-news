@@ -7,7 +7,7 @@ Lorem markdownum, inconcessaeque bina, qui raucaque loquentis nectare nisi armi.
 Potuit et saltem retenta: repetendus [locum](http://brotean.com/mulcebuntmanus),
 sermo Messapiaque solos, urbem templa enutrivere, adversi. Ait referat
 *circumdata*, coniuge: nemus est. Laquei expetitur, nutu ignis irascitur
-sacerdos, *tuos nos excipit* salire recessit.
+sacerdos, *tuos nos excipit* salire recessit...
 
 1. Referunt tecta
 2. Gurgite mente in memini invitum ingreditur illis
